@@ -18,6 +18,7 @@ To figure out the outcome of the campaighn depending upon campaign goal amount
 	Missed reading the filter by sub catogory and was wondering why graphs didn't match.
 ### Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+- 
 	The campaign was successful when launched in May
 	The number of cancellation was more or less the throughout the year
 	INSERT THE CHART HERE?????
