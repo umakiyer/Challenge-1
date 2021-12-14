@@ -20,10 +20,10 @@ To figure out the outcome of the campaighn depending upon campaign goal amount
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 	The campaign was successful when launched in May
 	The number of cancellation was more or less the throughout the year
-INSERT THE CHART HERE?????
+	INSERT THE CHART HERE?????
 - What can you conclude about the Outcomes based on Goals?
 	The sucees rate was higher for lower campaign goals 
-INSERT THE CHART HERE ?????
+	INSERT THE CHART HERE ?????
 - What are some limitations of this dataset?
 	The dataset doesn't have the benefits the backer would get depending on their pledge
 
