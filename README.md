@@ -14,8 +14,8 @@ Used the pivot table to create the line chart with the month & the outcome using
 To figure out the outcome of the campaighn depending upon campaign goal amount 
 
 ### Challenges and Difficulties Encountered
-Was not familiar with countif function. Didn't understand how the parameters had to be passed.
-Missed reading the filter by sub catogory and was wondering why graphs didn't match.
+	Was not familiar with countif function. Didn't understand how the parameters had to be passed.
+	Missed reading the filter by sub catogory and was wondering why graphs didn't match.
 ## Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 The campaign was successful when launched in May
