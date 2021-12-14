@@ -22,11 +22,11 @@ To figure out the outcome of the campaighn depending upon campaign goal amount
 	The number of cancellation was more or less the throughout the year
 	INSERT THE CHART HERE?????
 
-The sucees rate was higher for lower campaign goals 
-INSERT THE CHART HERE ?????
-- What are some limitations of this dataset?
+	The sucees rate was higher for lower campaign goals 
+	INSERT THE CHART HERE ?????
+
 The dataset doesn't have the benefits the backer would get depending on their pledge
 
-- What are some other possible tables and/or graphs that we could create?
-Theater outcome by the backer
-Theater outcome by country
+What are some other possible tables and/or graphs that we could create?
+	Theater outcome by the backer
+	Theater outcome by country
