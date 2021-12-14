@@ -11,7 +11,7 @@
 	Used the pivot table to create the line chart with the month & the outcome using the theater as the filter for the parent category
 
 ### Analysis of Outcomes Based on Goals
-To figure out the outcome of the campaighn depending upon campaign goal amount 
+To figure out the outcome of the campaign depending upon campaign goal amount 
 
 ### Challenges and Difficulties Encountered
 	Was not familiar with countif function. Didn't understand how the parameters had to be passed.
@@ -21,7 +21,7 @@ To figure out the outcome of the campaighn depending upon campaign goal amount
 		The campaign was successful when launched in May
 		The number of cancellation was more or less the throughout the year
 		INSERT THE CHART HERE?????
-
+###
 	The sucees rate was higher for lower campaign goals 
 	INSERT THE CHART HERE ?????
 
