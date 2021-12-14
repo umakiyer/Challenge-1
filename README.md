@@ -17,11 +17,10 @@ To figure out the outcome of the campaighn depending upon campaign goal amount
 	Was not familiar with countif function. Didn't understand how the parameters had to be passed.
 	Missed reading the filter by sub catogory and was wondering why graphs didn't match.
 ### Results
- 
-What are two conclusions you can draw about the Theater Outcomes by Launch Date?
-	The campaign was successful when launched in May
-	The number of cancellation was more or less the throughout the year
-	INSERT THE CHART HERE?????
+ 	Two conclusion that could be drawn from the Launch date with respect to campaigh goal is:
+		The campaign was successful when launched in May
+		The number of cancellation was more or less the throughout the year
+		INSERT THE CHART HERE?????
 
 	The sucees rate was higher for lower campaign goals 
 	INSERT THE CHART HERE ?????
